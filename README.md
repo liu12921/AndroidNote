@@ -32,7 +32,10 @@
 - [RecyclerView的使用](/AndroidNote/Android基础/RecyclerView的简介.md)
 - [Android获取SHA1](/AndroidNote/Android基础/Android获取SHA1.md)
 - [Recyclerview和Listview的异同.md](/AndroidNote/Android进阶/Recyclerview和Listview的异同.md)
+<!--
 - [初识ConstraintLayout](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548068&idx=1&sn=f750ae79c9458f89c3cf85f7573ba579&scene=21#wechat_redirect)
+-->
+-.[ConstraintLayout相关](https://blog.csdn.net/guolin_blog/article/details/53122387)
 - [TabLayout记录](/AndroidNote/Android基础/tablayout记录.md)
 - [用SpannableString打造绚丽多彩的文本显示效果](http://www.jianshu.com/p/84067ad289d2)
 
