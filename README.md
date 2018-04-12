@@ -1,3 +1,8 @@
+
+# [转自linsir6/AndroidNote](https://github.com/linsir6/AndroidNote)
+
+##为了便于修改记录，转到了这里一份，感谢原作者的贡献
+
 # Android-Note
 
 [![Travis](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/linsir6) [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html) [![GitHub (pre-)release](https://img.shields.io/badge/release-v1.0.3-ff69b4.svg)](https://github.com/linsir6/Android-Notes/releases) [![User](https://img.shields.io/badge/user-linsir-yellow.svg)](https://github.com/linsir6)
@@ -35,7 +40,7 @@
 <!--
 - [初识ConstraintLayout](https://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548068&idx=1&sn=f750ae79c9458f89c3cf85f7573ba579&scene=21#wechat_redirect)
 -->
--.[ConstraintLayout相关](https://blog.csdn.net/guolin_blog/article/details/53122387)
+- [ConstraintLayout相关](https://blog.csdn.net/guolin_blog/article/details/53122387)
 - [TabLayout记录](/AndroidNote/Android基础/tablayout记录.md)
 - [用SpannableString打造绚丽多彩的文本显示效果](http://www.jianshu.com/p/84067ad289d2)
 
