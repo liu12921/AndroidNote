@@ -1,7 +1,7 @@
 
 # [转自linsir6/AndroidNote](https://github.com/linsir6/AndroidNote)
 
-##为了便于修改记录，转到了这里一份，感谢原作者的贡献
+## 为了便于修改记录，转到了这里一份，感谢原作者的贡献
 
 # Android-Note
 
